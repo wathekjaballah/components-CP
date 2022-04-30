@@ -1,0 +1,20 @@
+*{
+ background-color: rgba(120, 166, 204, 0.034);
+}
+
+div {
+  color:black;
+font-family: fantasy;
+  font-size: larger;
+  text-align: center;
+  
+
+}
+img{
+  margin: auto;
+  text-align: center;
+  width:25%;
+  height:25%;
+  border-radius: 50% ;
+  
+}
